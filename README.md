@@ -1,5 +1,5 @@
 # SampleFleetAttack
-
+ADDITIONAL CHANGES
 The purpose of the code is to be used a walkthrough of simple class design.  This can be referenced for Lab08
 
 To facilate this, imagine below is the requirements for the game we are supposed to implement
