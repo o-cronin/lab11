@@ -25,7 +25,7 @@ THIS IS A CHANGE
 We want to control how the ships are created.  And thus will have a ShipFactory class whose responsibility is create the Ships.
 
 We also want to control access to the Species/Races so we could institute a research mechanic, so that the species mods could be modified.  And want to have this done in one place.
-
+THIS IS A SEPARATE CHANGE IN A BRANCH
 Want to use either Smart Pointers or RAII, no dumb pointers.
 
 Implement this in a way to use containment to avoid the issue of too many concrete classes.   I.e. A Battleship that is a Zerg species vs. ZergBattleShip.
