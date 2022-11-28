@@ -15,7 +15,7 @@ Each Ship will have
 * Current HitPoints
 * Number of weapons on the ship
 * How much each weapon is able to do
-
+THIS IS ANOTHER CHANGE
 Additionally, there will be several species of aliens.  Zerg, Human, and Protos.
 
 We want these species (races), to modify the ships.  For example one species, may be noted for really sturdy ships, but the the weapons don't hit as much (i.e. Tanks).  While others may have fewer hitpoints, but hit really hard (i.e. Glass Cannons).  And maybe the last one balanced one.
