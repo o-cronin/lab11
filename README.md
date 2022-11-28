@@ -21,7 +21,7 @@ Additionally, there will be several species of aliens.  Zerg, Human, and Protos.
 We want these species (races), to modify the ships.  For example one species, may be noted for really sturdy ships, but the the weapons don't hit as much (i.e. Tanks).  While others may have fewer hitpoints, but hit really hard (i.e. Glass Cannons).  And maybe the last one balanced one.
 
 We want Interface class for all the Ships and Species, so we can define what are the expected methdos.  This shoudl be an abstract class, preferablly a pure abstract class.
-
+THIS IS A CHANGE
 We want to control how the ships are created.  And thus will have a ShipFactory class whose responsibility is create the Ships.
 
 We also want to control access to the Species/Races so we could institute a research mechanic, so that the species mods could be modified.  And want to have this done in one place.
